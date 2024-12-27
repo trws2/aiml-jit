@@ -2,10 +2,12 @@
 
 This is following is modified from this original content [ml-system-design.md](https://github.com/alirezadir/machine-learning-interviews/blob/main/src/MLSD/ml-system-design.md)
 
+||
 |1. [The 9-Step ML System Design Formula](#1-the-9-step-ml-system-design-formula-template) |
 |2. [ML System Design Sample Questions](#2-ml-system-design-sample-questions) |
 |3. [ML System Design Topics](#3-ml-system-design-topics)|
 |4. [ML at big tech companies](#4-ml-at-big-tech-companies)|
+||
 
 ### Designing ML systems for production
 
