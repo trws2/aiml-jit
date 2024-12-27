@@ -8,7 +8,6 @@ This is following is modified from this original content [ml-system-design.md](h
 |2. [ML System Design Sample Questions](#2-ml-system-design-sample-questions) |
 |3. [ML System Design Topics](#3-ml-system-design-topics)|
 |4. [ML at big tech companies](#4-ml-at-big-tech-companies)|
-||
 
 ### Designing ML systems for production
 
