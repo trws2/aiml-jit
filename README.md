@@ -13,6 +13,5 @@ NOT mean to provide an authorized guide to MLE interview, but serves as a repo t
 | Chapter 3 	| [ML System Design (Updated in 2023)](src/MLSD/ml-system-design.md) |
 | Chapter 4 	| [ML Fundamentals/Breadth](src/ml-fundamental.md) | 
 | Chapter 5 	| [Behavioral](src/behavior.md) |
-| | |
 
 </center>
