@@ -11,16 +11,7 @@ This is following is modified from this original content [ml-system-design.md](h
 
 ### Designing ML systems for production
 
-Deploying deep learning models in production can be challenging, and it is beyond training models with good performance. Several distinct components need to be designed and developed in order to deploy a production level deep learning system.
-
-<p align="center">
-<img src="../imgs/components.png" title="" width="90%" height="80%">
-</p>
-
-
-Approaching an ML system design problem follows a similar logical flow to the generic software system design. (
-For more insight on general system design interview you can e.g. check out [Grokking the Modern System Design Interview
-](https://www.educative.io/courses/grokking-the-system-design-interview)). However, there are certain components in the design of an ML based system that need to be addressed and need special attention, as you will see below in ML System Design Flow.
+Deploying deep learning models in production can be challenging, and it is beyond training models with good performance. Several distinct components need to be designed and developed in order to deploy a production level deep learning system. Approaching an ML system design problem follows a similar logical flow to the generic software system design. (For more insight on general system design interview you can e.g. check out [Grokking the Modern System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)). However, there are certain components in the design of an ML based system that need to be addressed and need special attention, as you will see below in ML System Design Flow.
 
 ### ML System Design Interview 
 
