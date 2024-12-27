@@ -2,7 +2,7 @@
 
 Note: 
 * It is updated from the original [mlsd-template.md](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/mlsd-template.md)
-* It assumes a non-LLM based approach (for LLM based approach, we may have a difference template. In particular, we may not need features engineering model training, such as )
+* It assumes a non-LLM based approach (for LLM based approach, we may have a difference template. In particular, we may not need features engineering and model training, such as [RAG](https://en.wikipedia.org/wiki/Retrieval-augmented_generation))
 
 1. Problem Formulation
     * Clarifying questions
