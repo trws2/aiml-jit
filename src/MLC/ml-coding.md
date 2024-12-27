@@ -8,4 +8,5 @@ Please reference [ml-coding](https://github.com/alirezadir/Machine-Learning-Inte
 ## Neural networks 
 - Transformer for Machine Translation ([code](https://github.com/trws2/transformer_with_pytorch))
 - CNN (TBD)
-- Vision Transformer(TBD)
+- Vision Transformer (TBD)
+- Stable Diffusion (TBD)
