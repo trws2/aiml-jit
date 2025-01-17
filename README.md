@@ -1,8 +1,7 @@
 
-# Machine Learning Technical Interviews :robot: 
+# AI ML Just In Time (JIT):
 
-This repo is cloned and modified from [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) which aims to provide latest update to original content. It does
-NOT mean to provide an authorized guide to MLE interview, but serves as a repo to organize my knowledge based on my experiences and understanding working as a MLE with applications from ML Production Services, NLP, and CV.
+This repo is cloned and modified from [Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) which aims to provide update to original content, as the field is involving very rapidly. It does NOT mean to provide an authorized guide to MLE interview, but serves as a repo to organize my knowledge based on my experiences and understanding working as a MLE with applications from ML Production Services, NLP, and CV.
 
 <center>
 
