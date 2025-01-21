@@ -1,7 +1,5 @@
 # Principles of Large Model Quantization Technology: Summary
 
-The following content is generated based on [this article](https://mp.weixin.qq.com/s/E2itzyivEY-dg0O-7sICnw])
-
 In recent years, with the introduction of Transformer and MOE architectures, deep learning models have easily 
 surpassed trillions of parameters, leading to increasingly large models. Therefore, we need some large model 
 compression techniques to reduce deployment costs and improve inference performance. Model compression can be 
