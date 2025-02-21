@@ -1,6 +1,6 @@
 # Principles of Large Model Quantization Technology: Summary
 
-This article is generated from [this one](https://mp.weixin.qq.com/s/E2itzyivEY-dg0O-7sICnw).
+This article is generated from [this one](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/).
 
 In recent years, with the introduction of Transformer and MOE architectures, deep learning models have easily 
 surpassed trillions of parameters, leading to increasingly large models. Therefore, we need some large model 

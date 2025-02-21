@@ -79,18 +79,17 @@ Note: Remember when using this design flow during an interview to be flexible. A
   - Regression metrics: MSE, MAE, 
   - Problem specific metrics
     - Language: BLEU, BLEURT, GLUE, ROUGE, etc 
-    - ads: CPE, etc  
+    - ads: CPM, etc  
   - Latency
-  - Computational cost (in particular for on-device)
+  - QPS
+  - Model memory size
+  - Model size
 - Online metrics
   - CTR
-  - Task/session success/failure rate,
-  - Task/session total (e.g. watch) times, 
+  - CVR
   - Engagement rate (like rate, comment rate)
-  - Conversion rate
   - Revenue lift 
-  - Reciprocal rank of first click, etc,
-  - Counter metrics: direct negative feedback (hide, report)
+  - Human review metric: relevant search result or not
 - Trade-offs b/w metrics
 
 ## 3. Architectural Components (MVP Logic)
@@ -99,15 +98,13 @@ Note: Remember when using this design flow during an interview to be flexible. A
   - Non-ML components:
     - user, app server, DBs, KGs, etc and their interactions
   - ML components:
-    - Modeling modules (e.g. candidate generator, ranker, ect)
+    - Modeling modules (e.g. intent classifier, query rewrite, reranker, filter, result generation, ect)
     - Train data generator  
     ... 
 - Modular architecture design
-    - Model 1 architecture  (e.g. candidate generation)
+    - Model 1 architecture (e.g. candidate generation)
     - Model 2 architecture (e.g. ranker, filter)
     - ...
-
-
 
 ## 4. Data Collection and Preparation  
 
