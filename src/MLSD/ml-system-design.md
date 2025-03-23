@@ -83,10 +83,11 @@ Note: Remember when using this design flow during an interview to be flexible. A
   - Latency
   - QPS
   - Model memory size
-  - Model size
+  - Model size (number of parameters)
 - Online metrics
   - CTR
   - CVR
+  - Time Spent
   - Engagement rate (like rate, comment rate)
   - Revenue lift 
   - Human review metric: relevant search result or not
@@ -98,8 +99,8 @@ Note: Remember when using this design flow during an interview to be flexible. A
   - Non-ML components:
     - user, app server, DBs, KGs, etc and their interactions
   - ML components:
-    - Modeling modules (e.g. intent classifier, query rewrite, reranker, filter, result generation, ect)
-    - Train data generator  
+    - Modeling modules (e.g. intent classifier, query rewrite, reranker, filter, result generation, etc)
+    - Train data logging and generation 
     ... 
 - Modular architecture design
     - Model 1 architecture (e.g. candidate generation)
