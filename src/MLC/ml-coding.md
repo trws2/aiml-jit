@@ -11,3 +11,4 @@ Please reference [ml-coding](https://github.com/alirezadir/Machine-Learning-Inte
 - CNN ([some references](https://www.google.com/search?sca_esv=973d86099ae9cc40&q=cnn+stanford+cs231n+solution+github&sa=X&ved=2ahUKEwjhibKoyvyKAxXgODQIHe5nPGsQ7xYoAHoECA0QAQ&biw=1140&bih=592&dpr=3))
 - Vision Transformer ([reference](https://www.youtube.com/watch?v=vAmKB7iPkWw))
 - Stable Diffusion ([reference](https://www.youtube.com/watch?v=ZBKpAp_6TGI))
+- Approximate nearest neighbor search (e.g., used for search for similar images) ([reference](https://medium.com/@DataPlayer/scalable-approximate-nearest-neighbour-search-using-googles-scann-and-facebook-s-faiss-3e84df25ba))
